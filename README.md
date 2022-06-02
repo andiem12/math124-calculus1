@@ -8,7 +8,7 @@ Basic Information:
   Course: MATH 124 (Calculus I)
 ---
 
-# Welcome to MATH 124: Calculus I! This is Andie Jia's personal material website for MATH 124.
+# MATH 124: Calculus with Analytic Geometry I
 
 To make my website more organized, here are a few places to visit:
 
