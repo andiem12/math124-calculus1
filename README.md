@@ -8,9 +8,9 @@ Basic Information:
   Course: MATH 124 (Calculus I)
 ---
 
-# Just the Class
+# Welcome to MATH 124: Calculus I! This is Andie Jia's personal material website for MATH 124.
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+To make my website more organized, here are a few places to visit:
 
 - [announcements](announcements.md),
 - a [course calendar](calendar.md),
