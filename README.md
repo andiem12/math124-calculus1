@@ -3,9 +3,9 @@ layout: home
 title: Just the Class
 nav_exclude: true
 permalink: index.html
-seo:
-  type: Course
-  name: Just the Class
+Basic Information:
+  Subject: Mathematics (Lower-Division)
+  Course: MATH 124 (Calculus I)
 ---
 
 # Just the Class
